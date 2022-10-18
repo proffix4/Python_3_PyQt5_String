@@ -149,7 +149,7 @@
     </font>
    </property>
    <property name="text">
-    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;В заданном русском тексте выбрать слова, которые без искажения могут быть&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Нарезать текст на слова,&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignCenter</set>
@@ -171,7 +171,7 @@
     </font>
    </property>
    <property name="text">
-    <string>написаны латинскимии буквами, например: СВЕТА РОЕТ РОВ, ВОВКА СЕЕТ ОВЁС</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;сделав им реверс и верхний регистр&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignCenter</set>
